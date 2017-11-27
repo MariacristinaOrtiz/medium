@@ -35,8 +35,6 @@ Se identificó que la parte seleccionada es navegación local porque como págin
 ![medium-facetada](assets/docs/medium-facetada1.png)
 ![medium-facetada](assets/docs/medium-facetada2.png)
 
-
-
 ### Navegación contextual
 
 ![medium-contextual](assets/docs/medium-contextual.png)
