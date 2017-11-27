@@ -44,4 +44,4 @@ Se identificó que la parte seleccionada es navegación local porque como págin
 
 ### Navegación filtrada
 
-![medium-filtrada](assets/docs/medium-filtradae.png)
+![medium-filtrada](assets/docs/medium-filtrada.png)
